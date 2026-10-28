@@ -120,7 +120,13 @@ Aplicativo mobile desenvolvido como projeto de TCC, voltado para a divulgação 
 [📂 Ver repositório](https://github.com/Brayanpj/project-nutrisabor)
 
 
----
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Brayanpj/Brayanpj/main/nutrisabor-languagens.svg"
+    alt="Most Used Languages — NutriSabor"
+    width="400"
+  />
+</p>
 
 ## 📊 Estatísticas do GitHub
 
