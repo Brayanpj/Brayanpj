@@ -1,6 +1,6 @@
 
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="120" viewBox="0 0 320 120">
-  <rect width="500" height="200" x="0.5" y="0.5" rx="4.5" fill="#1a1b27" stroke="#414868"/>
+   <rect width="319" height="119" x="0.5" y="0.5" rx="4.5" fill="#1a1b27" stroke="#414868"/>
 
   <g font-family="Segoe UI, Ubuntu, Sans-Serif" fill="#a9b1d6">
     <text x="25" y="25" font-size="14" fill="#70a5fd">Most Used Languages</text>
