@@ -62,7 +62,7 @@ Projeto web desenvolvido com HTML, CSS e JavaScript.
   <img
     src="https://raw.githubusercontent.com/Brayanpj/Brayanpj/main/dev-city-languages.svg"
     alt="Linguagens do projeto Dev-City"
-    width="400"
+    width="300" 
   />
 </p>
 
