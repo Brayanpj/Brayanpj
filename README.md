@@ -38,9 +38,11 @@ API para gerenciamento de produtos e estoque.
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayanpj&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Linguagens mais utilizadas"
+    alt="Most Used Languages"
   />
-</p>
+</p> 
+
+
 
 
 ## 🎨 Frontend
@@ -58,13 +60,13 @@ Projeto web desenvolvido com HTML, CSS e JavaScript.
 [📂 Ver repositório](https://github.com/Brayanpj/Dev-City) 
 
 
+
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Brayanpj/Brayanpj/main/dev-city-languages.svg"
-    alt="Linguagens do projeto Dev-City"
-    width="300" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayanpj&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages — Dev-City"
   />
-</p>
+</p> 
 
 
 
