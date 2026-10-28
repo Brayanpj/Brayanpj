@@ -34,11 +34,24 @@ Projeto web desenvolvido com HTML, CSS e JavaScript, com funcionalidades de câm
 
 [🔗 Ver repositório](https://github.com/Brayanpj/Dev-City) 
 
+### [projeto-foto](https://github.com/Brayanpj/projeto-foto)
 
+Aplicação web interativa que utiliza a câmera para capturar fotos e exibi-las na página.
 
+**Tecnologias:** HTML5 · CSS3 · JavaScript
+
+[🔗 Ver repositório](https://github.com/Brayanpj/projeto-foto) 
 
 ## 📱 Mobile
 
-🚧 Projetos mobile.
+🚧 Projeto mobile.
+
+### [NutriSabor](https://github.com/Brayanpj/project-nutrisabor)
+
+Aplicativo mobile desenvolvido como projeto de TCC, voltado para a divulgação e comercialização de refeições saudáveis. Possui funcionalidades de autenticação, catálogo de produtos, carrinho de compras e perfil do usuário.
+
+**Tecnologias:** React Native · Expo · JavaScript · AsyncStorage
+
+[📂 Ver repositório](https://github.com/Brayanpj/project-nutrisabor)
 
 ---
