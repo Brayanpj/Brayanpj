@@ -1,32 +1,32 @@
 
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="180" viewBox="0 0 400 180">
-  <rect x="0" y="0" width="400" height="180" rx="4" fill="#1a1b27"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="120" viewBox="0 0 320 120">
+  <rect width="500" height="200" x="0.5" y="0.5" rx="4.5" fill="#1a1b27" stroke="#414868"/>
 
-  <g font-family="Arial, sans-serif" fill="#c0caf5">
-    <text x="24" y="30" font-size="14" font-weight="400">Most Used Languages</text>
+  <g font-family="Segoe UI, Ubuntu, Sans-Serif" fill="#a9b1d6">
+    <text x="25" y="25" font-size="14" fill="#70a5fd">Most Used Languages</text>
 
-    <rect x="24" y="48" width="352" height="8" rx="4" fill="#24283b"/>
+    <rect x="25" y="37" width="270" height="8" rx="2" fill="#24283b"/>
 
-    <clipPath id="bar">
-      <rect x="24" y="48" width="352" height="8" rx="4"/>
+    <clipPath id="language-bar">
+      <rect x="25" y="37" width="270" height="8" rx="2"/>
     </clipPath>
 
-    <g clip-path="url(#bar)">
-      <rect x="24" y="48" width="178.6048" height="8" fill="#7aa2f7"/>
-      <rect x="202.6048" y="48" width="97.7856" height="8" fill="#e0af68"/>
-      <rect x="300.3904" y="48" width="75.6096" height="8" fill="#bb9af7"/>
+    <g clip-path="url(#language-bar)">
+      <rect x="25" y="37" width="137" height="8" fill="#563d7c"/>
+      <rect x="162" y="37" width="75" height="8" fill="#f1e05a"/>
+      <rect x="237" y="37" width="58" height="8" fill="#e34c26"/>
     </g>
 
-    <text x="42" y="86" font-size="12">CSS</text>
-    <text x="376" y="86" font-size="12" text-anchor="end">50.74%</text>
-    
-    <text x="42" y="112" font-size="12">JavaScript</text>
-    <text x="376" y="112" font-size="12" text-anchor="end">27.78%</text>
+    <circle cx="29" cy="63" r="3" fill="#563d7c"/>
+    <text x="39" y="67" font-size="11">CSS</text>
+    <text x="295" y="67" font-size="11" text-anchor="end">50.74%</text>
 
-    <text x="42" y="138" font-size="12">HTML</text>
-    <text x="376" y="138" font-size="12" text-anchor="end">21.48%</text>
+    <circle cx="29" cy="81" r="3" fill="#f1e05a"/>
+    <text x="39" y="85" font-size="11">JavaScript</text>
+    <text x="295" y="85" font-size="11" text-anchor="end">27.78%</text>
 
-    <path d="M24 151 H376" stroke="#414868"/>
-    <text x="24" y="167" font-size="9" fill="#a9b1d6">Dev-City (GTA) · Project language distribution</text>
+    <circle cx="29" cy="99" r="3" fill="#e34c26"/>
+    <text x="39" y="103" font-size="11">HTML</text>
+    <text x="295" y="103" font-size="11" text-anchor="end">21.48%</text>
   </g>
 </svg>
