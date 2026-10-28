@@ -20,48 +20,68 @@
 
 ---
 
+
 ## ⚙️ Backend
 
-🚧 Projeto de Backend em desenvolvimento. 
-
-### [ArmazingXStock.Api](https://github.com/Brayanpj/ArmazingXStock)
+### 📦 ArmazingXStock.Api
 
 API para gerenciamento de produtos e estoque.
 
-**Tecnologias:** C# · .NET · ASP.NET Core · MySQL
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-[🔗 Ver repositório](https://github.com/Brayanpj/ArmazingXStock)
+[📂 Ver repositório](https://github.com/Brayanpj/ArmazingXStock)
+
 
 ## 🎨 Frontend
 
 🚧 Projetos de frontend. 
 
-### [Projeto Dev-City (GTA)](https://github.com/Brayanpj/Dev-City)
+### 🎮 Projeto Dev-City (GTA)
 
-Projeto web desenvolvido com HTML, CSS e JavaScript, com funcionalidades de câmera e captura de fotos.
+Projeto web desenvolvido com HTML, CSS e JavaScript.
 
-**Tecnologias:** HTML5 · CSS3 · JavaScript
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-[🔗 Ver repositório](https://github.com/Brayanpj/Dev-City) 
+[📂 Ver repositório](https://github.com/Brayanpj/Dev-City)
 
-### [projeto-foto](https://github.com/Brayanpj/projeto-foto)
+
+### 📸 Projeto Foto
+
+Aplicação web interativa que utiliza a câmera para capturar fotos e exibi-las na página.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+
+[📂 Ver repositório](### [projeto-foto](https://github.com/Brayanpj/projeto-foto)
 
 Aplicação web interativa que utiliza a câmera para capturar fotos e exibi-las na página.
 
 **Tecnologias:** HTML5 · CSS3 · JavaScript
 
-[🔗 Ver repositório](https://github.com/Brayanpj/projeto-foto) 
+
+[🔗 Ver repositório](https://github.com/Brayanpj/projeto-foto)
+
 
 ## 📱 Mobile
 
 🚧 Projeto mobile.
 
-### [NutriSabor](https://github.com/Brayanpj/project-nutrisabor)
+### 🥗 NutriSabor
 
-Aplicativo mobile desenvolvido como projeto de TCC, voltado para a divulgação e comercialização de refeições saudáveis. Possui funcionalidades de autenticação, catálogo de produtos, carrinho de compras e perfil do usuário.
+Aplicativo mobile desenvolvido como projeto de TCC, voltado para a divulgação e comercialização de refeições saudáveis.
 
-**Tecnologias:** React Native · Expo · JavaScript · AsyncStorage
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 [📂 Ver repositório](https://github.com/Brayanpj/project-nutrisabor)
+
 
 ---
