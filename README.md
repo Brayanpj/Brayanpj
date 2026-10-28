@@ -12,7 +12,15 @@
 
 ## ⚙️ Backend
 
-🚧 Projetos de backend em desenvolvimento.
+🚧 Projeto de Backend em desenvolvimento. 
+
+### [ArmazingXStock.Api](https://github.com/Brayanpj/ArmazingXStock)
+
+API para gerenciamento de produtos e estoque.
+
+**Tecnologias:** C# · .NET · ASP.NET Core · MySQL
+
+[🔗 Ver repositório](https://github.com/Brayanpj/ArmazingXStock)
 
 ## 🎨 Frontend
 
