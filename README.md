@@ -89,7 +89,15 @@ Aplicação web interativa que utiliza a câmera para capturar fotos e exibi-las
 **Tecnologias:** HTML5 · CSS3 · JavaScript
 
 
-[🔗 Ver repositório](https://github.com/Brayanpj/projeto-foto)
+[🔗 Ver repositório](https://github.com/Brayanpj/projeto-foto) 
+
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Brayanpj/Brayanpj/main/projeto-foto-languages.svg" alt="Most Used Languages — Projeto-Foto" width="400" />
+</p>
+
+
 
 
 ## 📱 Mobile
