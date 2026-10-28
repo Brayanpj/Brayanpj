@@ -61,12 +61,15 @@ Projeto web desenvolvido com HTML, CSS e JavaScript.
 
 
 
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayanpj&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://raw.githubusercontent.com/Brayanpj/Brayanpj/main/dev-city-languages.svg"
     alt="Most Used Languages — Dev-City"
+    width="300"
   />
-</p> 
+</p>
+```
 
 
 
