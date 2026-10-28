@@ -58,6 +58,14 @@ Projeto web desenvolvido com HTML, CSS e JavaScript.
 [📂 Ver repositório](https://github.com/Brayanpj/Dev-City) 
 
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Brayanpj/Brayanpj/main/dev-city-languages.svg"
+    alt="Linguagens do projeto Dev-City"
+    width="400"
+  />
+</p>
+
 
 
 ### 📸 Projeto Foto
