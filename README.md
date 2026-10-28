@@ -24,7 +24,18 @@ API para gerenciamento de produtos e estoque.
 
 ## 🎨 Frontend
 
-🚧 Projetos de frontend.
+🚧 Projetos de frontend. 
+
+### [Projeto Dev-City (GTA)](https://github.com/Brayanpj/Dev-City)
+
+Projeto web desenvolvido com HTML, CSS e JavaScript, com funcionalidades de câmera e captura de fotos.
+
+**Tecnologias:** HTML5 · CSS3 · JavaScript
+
+[🔗 Ver repositório](https://github.com/Brayanpj/Dev-City) 
+
+
+
 
 ## 📱 Mobile
 
