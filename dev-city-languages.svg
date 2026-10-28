@@ -3,7 +3,7 @@
   <rect x="0" y="0" width="400" height="180" rx="4" fill="#1a1b27"/>
 
   <g font-family="Arial, sans-serif" fill="#c0caf5">
-    <text x="24" y="32" font-size="16" font-weight="600">Most Used Languages</text>
+    <text x="24" y="30" font-size="14" font-weight="400">Most Used Languages</text>
 
     <rect x="24" y="48" width="352" height="8" rx="4" fill="#24283b"/>
 
