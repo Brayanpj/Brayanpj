@@ -35,6 +35,14 @@ API para gerenciamento de produtos e estoque.
 [📂 Ver repositório](https://github.com/Brayanpj/ArmazingXStock)
 
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brayanpj&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Linguagens mais utilizadas"
+  />
+</p>
+
+
 ## 🎨 Frontend
 
 🚧 Projetos de frontend. 
@@ -47,7 +55,9 @@ Projeto web desenvolvido com HTML, CSS e JavaScript.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-[📂 Ver repositório](https://github.com/Brayanpj/Dev-City)
+[📂 Ver repositório](https://github.com/Brayanpj/Dev-City) 
+
+
 
 
 ### 📸 Projeto Foto
@@ -83,5 +93,16 @@ Aplicativo mobile desenvolvido como projeto de TCC, voltado para a divulgação 
 
 [📂 Ver repositório](https://github.com/Brayanpj/project-nutrisabor)
 
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Brayanpj&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Estatísticas gerais do GitHub"
+  />
+</p>
 
 ---
