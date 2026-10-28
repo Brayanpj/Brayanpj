@@ -1,0 +1,32 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="150" viewBox="0 0 320 120">
+  <rect width="319" height="119" x="0.5" y="0.5" rx="4.5" fill="#1a1b27" stroke="#414868"/>
+
+  <g font-family="Segoe UI, Ubuntu, Sans-Serif" fill="#a9b1d6">
+    <text x="25" y="25" font-size="14" fill="#70a5fd">Most Used Languages</text>
+
+    <rect x="25" y="37" width="270" height="8" rx="2" fill="#24283b"/>
+
+    <clipPath id="language-bar">
+      <rect x="25" y="37" width="270" height="8" rx="2"/>
+    </clipPath>
+
+    <g clip-path="url(#language-bar)">
+      <rect x="25" y="37" width="107.449" height="8" fill="#563d7c"/>
+      <rect x="132.449" y="37" width="112.949" height="8" fill="#f1e05a"/>
+      <rect x="245.398" y="37" width="49.602" height="8" fill="#e34c26"/>
+    </g>
+
+    <circle cx="29" cy="63" r="3" fill="#563d7c"/>
+    <text x="39" y="67" font-size="11">CSS</text>
+    <text x="295" y="67" font-size="11" text-anchor="end">39.80%</text>
+
+    <circle cx="29" cy="81" r="3" fill="#f1e05a"/>
+    <text x="39" y="85" font-size="11">JavaScript</text>
+    <text x="295" y="85" font-size="11" text-anchor="end">41.84%</text>
+
+    <circle cx="29" cy="99" r="3" fill="#e34c26"/>
+    <text x="39" y="103" font-size="11">HTML</text>
+    <text x="295" y="103" font-size="11" text-anchor="end">18.37%</text>
+  </g>
+</svg>
