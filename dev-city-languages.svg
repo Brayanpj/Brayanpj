@@ -17,17 +17,9 @@
       <rect x="300.3904" y="48" width="75.6096" height="8" fill="#bb9af7"/>
     </g>
 
-    <circle cx="29" cy="82" r="4" fill="#7aa2f7"/>
-    <text x="42" y="86" font-size="15">CSS</text>
-    <text x="376" y="86" font-size="15" text-anchor="end">50.74%</text>
-
-    <circle cx="29" cy="108" r="4" fill="#e0af68"/>
-    <text x="42" y="112" font-size="15">JavaScript</text>
-    <text x="376" y="112" font-size="15" text-anchor="end">27.78%</text>
-
-    <circle cx="29" cy="134" r="4" fill="#bb9af7"/>
-    <text x="42" y="138" font-size="15">HTML</text>
-    <text x="376" y="138" font-size="15" text-anchor="end">21.48%</text>
+    <text x="376" y="86" font-size="12" text-anchor="end">50.74%</text>
+    <text x="376" y="112" font-size="12" text-anchor="end">27.78%</text>
+    <text x="376" y="138" font-size="12" text-anchor="end">21.48%</text>
 
     <path d="M24 151 H376" stroke="#414868"/>
     <text x="24" y="167" font-size="9" fill="#a9b1d6">Dev-City (GTA) · Project language distribution</text>
