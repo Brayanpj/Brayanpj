@@ -17,8 +17,13 @@
       <rect x="300.3904" y="48" width="75.6096" height="8" fill="#bb9af7"/>
     </g>
 
+    <text x="42" y="86" font-size="12">CSS</text>
     <text x="376" y="86" font-size="12" text-anchor="end">50.74%</text>
+    
+    <text x="42" y="112" font-size="12">JavaScript</text>
     <text x="376" y="112" font-size="12" text-anchor="end">27.78%</text>
+
+    <text x="42" y="138" font-size="12">HTML</text>
     <text x="376" y="138" font-size="12" text-anchor="end">21.48%</text>
 
     <path d="M24 151 H376" stroke="#414868"/>
