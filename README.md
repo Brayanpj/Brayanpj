@@ -66,7 +66,7 @@ Projeto web desenvolvido com HTML, CSS e JavaScript.
   <img
     src="https://raw.githubusercontent.com/Brayanpj/Brayanpj/main/dev-city-languages.svg"
     alt="Most Used Languages — Dev-City"
-    width="300"
+    width="400"
   />
 </p>
 
@@ -94,8 +94,13 @@ Aplicação web interativa que utiliza a câmera para capturar fotos e exibi-las
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Brayanpj/Brayanpj/main/projeto-foto-languages.svg" alt="Most Used Languages — Projeto-Foto" width="400" />
+  <img
+    src="https://raw.githubusercontent.com/Brayanpj/Brayanpj/main/projeto-foto-languagens.svg"
+    alt="Most Used Languages — Projeto-Foto"
+    width="400"
+  />
 </p>
+
 
 
 
