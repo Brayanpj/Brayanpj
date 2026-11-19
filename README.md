@@ -1,5 +1,4 @@
  <div align="center">
-
 💻Bem-vindo ao meu portfólio de desenvolvimento!
   
 <a href="https://git.io/typing-svg">
