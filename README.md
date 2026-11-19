@@ -1,6 +1,8 @@
  <div align="center">
 # Olá! Eu sou Brayan Prates 👋 
+
 ### 💻 Desenvolvedor de Software
+
 # 💻 Bem-vindo ao meu portfólio de desenvolvimento! 🚀
 
 <a href="https://git.io/typing-svg">
