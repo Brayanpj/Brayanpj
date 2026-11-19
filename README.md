@@ -1,5 +1,11 @@
  <div align="center">
+# Olá! Eu sou Brayan Prates 👋 
+Graduado em Ciência da Computação, com experiência em desenvolvimento
+e sustentação de sistemas. Atualmente, aprofundando conhecimentos em
+desenvolvimento Backend com .NET e Frontend com React.
 
+Também possuo experiência acadêmica com React Native, utilizado no
+desenvolvimento do meu projeto de conclusão de curso (TCC).
 # 💻 Bem-vindo ao meu portfólio de desenvolvimento! 🚀
 
 <a href="https://git.io/typing-svg">
