@@ -3,16 +3,15 @@
 # 💻 Bem-vindo ao meu portfólio de desenvolvimento! 🚀
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Desenvolvedor+de+Software;C%23+%7C+.NET+%7C+SQL+%7C+%7C+React.js+%7C;Explorando+ideias%2C+construindo+solu%C3%A7%C3%B5es." alt="Animação de digitação" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Desenvolvedor+de+Software;C%23+%7C+.NET+Asp.Net Core+SQL+%7C+React.js+%7C;Explorando+ideias%2C+construindo+solu%C3%A7%C3%B5es." alt="Animação de digitação" />
 </a> 
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/ASP.NET CORE-512BD4?style=for-the-badge&logo=aspnetcore&logoColor=white" alt="ASP.NET CORE"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL e MySQL"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
 </p>
 
 
