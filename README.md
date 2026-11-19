@@ -1,6 +1,5 @@
  <div align="center">
-
-  # Olá! Eu sou Brayan Prates 👋 
+# Olá! Eu sou Brayan Prates 👋 
 
 #💻 Desenvolvedor de Software 🚀
   
