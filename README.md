@@ -1,7 +1,7 @@
  <div align="center">
 # Olá! Eu sou Brayan Prates 👋 
 
-#💻 Desenvolvedor de Software 🚀
+###💻 Desenvolvedor de Software 🚀
   
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Desenvolvedor+de+Software;C%23+%7C+.NET+%7C+Asp.Net+Core+%7C+SQL+%7C+React.js;Explorando+ideias%2C+construindo+solu%C3%A7%C3%B5es." alt="Animação de digitação" />
